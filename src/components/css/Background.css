@@ -1,0 +1,13 @@
+.background_container {
+    height: 31rem;
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.background_title {
+    font-size: 5.1rem;
+}

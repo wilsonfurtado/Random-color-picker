@@ -1,0 +1,12 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.presentation_mainTitle {
+    font-size: 1.7rem;
+}
+
+.presentation_text {
+    font-size: 1.1rem;
+}
